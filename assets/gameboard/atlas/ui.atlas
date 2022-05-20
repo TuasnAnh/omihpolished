@@ -1,0 +1,55 @@
+
+ui.png
+size: 2048, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+arrow
+  rotate: false
+  xy: 1364, 64
+  size: 152, 54
+  orig: 152, 54
+  offset: 0, 0
+  index: 2
+arrow
+  rotate: false
+  xy: 1518, 64
+  size: 151, 54
+  orig: 151, 54
+  offset: 0, 0
+  index: 3
+arrow
+  rotate: false
+  xy: 1671, 64
+  size: 148, 54
+  orig: 148, 54
+  offset: 0, 0
+  index: 1
+clock icon
+  rotate: false
+  xy: 1821, 78
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+health_bar
+  rotate: false
+  xy: 2, 45
+  size: 695, 73
+  orig: 695, 73
+  offset: 0, 0
+  index: 0
+health_bar
+  rotate: false
+  xy: 2, 2
+  size: 663, 41
+  orig: 663, 41
+  offset: 0, 0
+  index: 1
+health_bar
+  rotate: false
+  xy: 699, 77
+  size: 663, 41
+  orig: 663, 41
+  offset: 0, 0
+  index: 2

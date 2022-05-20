@@ -1,0 +1,328 @@
+
+skill-icons-2.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Absolutely_Zero
+  rotate: false
+  xy: 998, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Bash_Strike
+  rotate: false
+  xy: 1164, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Bash_Strike_Signature
+  rotate: false
+  xy: 666, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Bersecker_s_Call
+  rotate: false
+  xy: 334, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Black_Hole
+  rotate: false
+  xy: 168, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Bloodlust
+  rotate: false
+  xy: 168, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Crititcal_Strike
+  rotate: false
+  xy: 832, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Deadly_Strike
+  rotate: false
+  xy: 2, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Double_Attack
+  rotate: false
+  xy: 334, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Double_Attack_Signature
+  rotate: false
+  xy: 500, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Enchant_Sword
+  rotate: false
+  xy: 334, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Fire_Tornado
+  rotate: false
+  xy: 2, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Fire_Wall
+  rotate: false
+  xy: 500, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Flame_Shield
+  rotate: false
+  xy: 998, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Frozen_Enchant_Sword
+  rotate: false
+  xy: 2, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Frozen_Shield
+  rotate: false
+  xy: 500, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Guardian_Wisp
+  rotate: false
+  xy: 998, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Head_Shot
+  rotate: false
+  xy: 168, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Healing_Song
+  rotate: false
+  xy: 168, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Ice_Bolt
+  rotate: false
+  xy: 1330, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Ice_Bolt_Signature
+  rotate: false
+  xy: 500, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Ice_Nova
+  rotate: false
+  xy: 168, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Iron_Skin
+  rotate: false
+  xy: 334, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Iron_Skin_Signature
+  rotate: false
+  xy: 500, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Light_Shield
+  rotate: false
+  xy: 2, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Lightning_Bolt
+  rotate: false
+  xy: 832, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Lightning_Curse
+  rotate: false
+  xy: 500, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Meteor_Blast
+  rotate: false
+  xy: 1330, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Meteor_Storm
+  rotate: false
+  xy: 666, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Meteor_Summon
+  rotate: false
+  xy: 832, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Nature_s_Ruler
+  rotate: false
+  xy: 334, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Petrify_Curse
+  rotate: false
+  xy: 1496, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Poison_Arrow
+  rotate: false
+  xy: 1164, 500
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Poison_Curse
+  rotate: false
+  xy: 666, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Recover
+  rotate: false
+  xy: 334, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Red_Transform
+  rotate: false
+  xy: 666, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Rock_Impact
+  rotate: false
+  xy: 2, 666
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Sleeping_Song
+  rotate: false
+  xy: 666, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Swap
+  rotate: false
+  xy: 832, 2
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Transcend
+  rotate: false
+  xy: 666, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Untouchable_Skin
+  rotate: false
+  xy: 832, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Vampire_Strike
+  rotate: false
+  xy: 832, 168
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Vertical_Cut
+  rotate: false
+  xy: 168, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Weaken_Shot
+  rotate: false
+  xy: 998, 334
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Weakinging_Mark
+  rotate: false
+  xy: 2, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Weapon_Crasher
+  rotate: false
+  xy: 1164, 832
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1

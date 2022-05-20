@@ -1,0 +1,153 @@
+
+buff-icons.png
+size: 1024, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+BlockBuff
+  rotate: false
+  xy: 62, 4
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+Clean
+  rotate: false
+  xy: 68, 63
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+Continous_Damage
+  rotate: false
+  xy: 697, 68
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Counter
+  rotate: false
+  xy: 867, 71
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Decrease ATK
+  rotate: false
+  xy: 170, 5
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+Decrease DEF
+  rotate: false
+  xy: 420, 65
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+Dispel
+  rotate: false
+  xy: 2, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Frozen
+  rotate: false
+  xy: 530, 67
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+Heal_Regen
+  rotate: false
+  xy: 116, 4
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+Increase_ATK
+  rotate: false
+  xy: 642, 68
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Increase_DEF
+  rotate: false
+  xy: 586, 68
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+Invincibility
+  rotate: false
+  xy: 2, 62
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+Petrify
+  rotate: false
+  xy: 363, 67
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+Power_up
+  rotate: false
+  xy: 752, 69
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: false
+  xy: 127, 62
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+Silence
+  rotate: false
+  xy: 807, 74
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+Sleep
+  rotate: false
+  xy: 922, 70
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Soul_Protection
+  rotate: false
+  xy: 183, 70
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+Stun
+  rotate: false
+  xy: 245, 70
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Taunt
+  rotate: false
+  xy: 476, 65
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+Weakening
+  rotate: false
+  xy: 305, 69
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1

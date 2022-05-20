@@ -1,0 +1,125 @@
+
+gem-skill-icon-2.png
+size: 1024, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Bash_Strike
+  rotate: false
+  xy: 956, 104
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Crititcal_Strike
+  rotate: false
+  xy: 188, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Deadly_Strike
+  rotate: false
+  xy: 64, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Double_Attack
+  rotate: false
+  xy: 832, 104
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Enchant_Sword
+  rotate: false
+  xy: 894, 104
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Frozen_Enchant_Sword
+  rotate: false
+  xy: 832, 168
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Head_Shot
+  rotate: false
+  xy: 2, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Ice_Bolt
+  rotate: false
+  xy: 312, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Iron_Skin
+  rotate: false
+  xy: 956, 168
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Lightning_Bolt
+  rotate: false
+  xy: 500, 66
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Meteor_Blast
+  rotate: false
+  xy: 250, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Meteor_Storm
+  rotate: false
+  xy: 894, 168
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Poison_Curse
+  rotate: false
+  xy: 334, 66
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Rock_Impact
+  rotate: false
+  xy: 2, 66
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Untouchable_Skin
+  rotate: false
+  xy: 126, 2
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+Weaken_Shot
+  rotate: false
+  xy: 666, 66
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+Weapon_Crasher
+  rotate: false
+  xy: 168, 66
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1

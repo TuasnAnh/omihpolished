@@ -1,0 +1,55 @@
+
+hp_bar.png
+size: 2048, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+HP_bar
+  rotate: false
+  xy: 2, 13
+  size: 316, 43
+  orig: 316, 43
+  offset: 0, 0
+  index: 1
+HP_bar
+  rotate: false
+  xy: 320, 32
+  size: 295, 24
+  orig: 295, 24
+  offset: 0, 0
+  index: 2
+HP_bar
+  rotate: false
+  xy: 617, 32
+  size: 295, 24
+  orig: 295, 24
+  offset: 0, 0
+  index: 3
+arrow
+  rotate: false
+  xy: 914, 2
+  size: 152, 54
+  orig: 152, 54
+  offset: 0, 0
+  index: 2
+arrow
+  rotate: false
+  xy: 1068, 2
+  size: 151, 54
+  orig: 151, 54
+  offset: 0, 0
+  index: 3
+arrow
+  rotate: false
+  xy: 1221, 2
+  size: 148, 54
+  orig: 148, 54
+  offset: 0, 0
+  index: 1
+clock icon
+  rotate: false
+  xy: 1371, 16
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

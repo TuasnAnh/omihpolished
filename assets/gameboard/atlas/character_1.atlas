@@ -1,0 +1,2833 @@
+
+character_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+AlistriaA_Attack
+  rotate: false
+  xy: 2, 1668
+  size: 172, 127
+  orig: 270, 270
+  offset: 9, 82
+  index: 11
+AlistriaA_Attack
+  rotate: false
+  xy: 2, 1414
+  size: 166, 129
+  orig: 270, 270
+  offset: 14, 82
+  index: 12
+AlistriaA_Attack
+  rotate: false
+  xy: 2, 1286
+  size: 164, 126
+  orig: 270, 270
+  offset: 13, 81
+  index: 19
+AlistriaA_Attack
+  rotate: false
+  xy: 515, 1468
+  size: 164, 126
+  orig: 270, 270
+  offset: 13, 81
+  index: 18
+AlistriaA_Attack
+  rotate: false
+  xy: 168, 1264
+  size: 163, 127
+  orig: 270, 270
+  offset: 15, 81
+  index: 17
+AlistriaA_Attack
+  rotate: false
+  xy: 681, 1444
+  size: 99, 150
+  orig: 270, 270
+  offset: 83, 55
+  index: 28
+AlistriaA_Attack
+  rotate: false
+  xy: 503, 1341
+  size: 162, 125
+  orig: 270, 270
+  offset: 15, 81
+  index: 20
+AlistriaA_Attack
+  rotate: false
+  xy: 333, 1246
+  size: 159, 128
+  orig: 270, 270
+  offset: 19, 81
+  index: 16
+AlistriaA_Attack
+  rotate: false
+  xy: 831, 1735
+  size: 95, 151
+  orig: 270, 270
+  offset: 89, 54
+  index: 1
+AlistriaA_Attack
+  rotate: false
+  xy: 327, 1128
+  size: 158, 116
+  orig: 270, 270
+  offset: 87, 82
+  index: 8
+AlistriaA_Attack
+  rotate: false
+  xy: 162, 1014
+  size: 157, 125
+  orig: 270, 270
+  offset: 20, 81
+  index: 21
+AlistriaA_Attack
+  rotate: false
+  xy: 654, 1175
+  size: 156, 128
+  orig: 270, 270
+  offset: 23, 81
+  index: 15
+AlistriaA_Attack
+  rotate: false
+  xy: 321, 997
+  size: 154, 129
+  orig: 270, 270
+  offset: 26, 81
+  index: 14
+AlistriaA_Attack
+  rotate: false
+  xy: 812, 1161
+  size: 153, 130
+  orig: 270, 270
+  offset: 27, 81
+  index: 13
+AlistriaA_Attack
+  rotate: false
+  xy: 1188, 1592
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 29
+AlistriaA_Attack
+  rotate: false
+  xy: 800, 1032
+  size: 152, 127
+  orig: 270, 270
+  offset: 88, 80
+  index: 4
+AlistriaA_Attack
+  rotate: false
+  xy: 310, 735
+  size: 151, 123
+  orig: 270, 270
+  offset: 87, 79
+  index: 7
+AlistriaA_Attack
+  rotate: false
+  xy: 1074, 1142
+  size: 102, 149
+  orig: 270, 270
+  offset: 81, 56
+  index: 27
+AlistriaA_Attack
+  rotate: false
+  xy: 154, 495
+  size: 148, 124
+  orig: 270, 270
+  offset: 29, 81
+  index: 22
+AlistriaA_Attack
+  rotate: false
+  xy: 613, 704
+  size: 147, 130
+  orig: 270, 270
+  offset: 85, 78
+  index: 5
+AlistriaA_Attack
+  rotate: false
+  xy: 1465, 1599
+  size: 107, 147
+  orig: 270, 270
+  offset: 77, 58
+  index: 26
+AlistriaA_Attack
+  rotate: false
+  xy: 908, 631
+  size: 140, 127
+  orig: 270, 270
+  offset: 41, 78
+  index: 23
+AlistriaA_Attack
+  rotate: false
+  xy: 2, 2
+  size: 138, 128
+  orig: 270, 270
+  offset: 87, 78
+  index: 6
+AlistriaA_Attack
+  rotate: false
+  xy: 1617, 1160
+  size: 95, 145
+  orig: 270, 270
+  offset: 94, 61
+  index: 2
+AlistriaA_Attack
+  rotate: false
+  xy: 1524, 291
+  size: 117, 143
+  orig: 270, 270
+  offset: 67, 62
+  index: 25
+AlistriaA_Cast
+  rotate: false
+  xy: 931, 1744
+  size: 97, 150
+  orig: 270, 270
+  offset: 85, 56
+  index: 29
+AlistriaA_Cast
+  rotate: false
+  xy: 927, 1444
+  size: 151, 137
+  orig: 270, 270
+  offset: 30, 79
+  index: 8
+AlistriaA_Cast
+  rotate: false
+  xy: 992, 1592
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 30
+AlistriaA_Cast
+  rotate: false
+  xy: 992, 1592
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 0
+AlistriaA_Cast
+  rotate: false
+  xy: 967, 1142
+  size: 105, 149
+  orig: 270, 270
+  offset: 80, 60
+  index: 28
+AlistriaA_Cast
+  rotate: false
+  xy: 463, 719
+  size: 148, 137
+  orig: 270, 270
+  offset: 32, 81
+  index: 25
+AlistriaA_Cast
+  rotate: false
+  xy: 937, 890
+  size: 147, 140
+  orig: 270, 270
+  offset: 34, 81
+  index: 24
+AlistriaA_Cast
+  rotate: false
+  xy: 1234, 847
+  size: 131, 144
+  orig: 270, 270
+  offset: 51, 80
+  index: 19
+AlistriaA_Cast
+  rotate: false
+  xy: 450, 469
+  size: 143, 133
+  orig: 270, 270
+  offset: 38, 79
+  index: 7
+AlistriaA_Cast
+  rotate: false
+  xy: 2, 265
+  size: 141, 134
+  orig: 270, 270
+  offset: 40, 81
+  index: 26
+AlistriaA_Cast
+  rotate: false
+  xy: 1358, 701
+  size: 130, 144
+  orig: 270, 270
+  offset: 51, 80
+  index: 22
+AlistriaA_Cast
+  rotate: false
+  xy: 595, 429
+  size: 138, 143
+  orig: 270, 270
+  offset: 43, 80
+  index: 23
+AlistriaA_Cast
+  rotate: false
+  xy: 440, 328
+  size: 138, 139
+  orig: 270, 270
+  offset: 43, 79
+  index: 9
+AlistriaA_Cast
+  rotate: false
+  xy: 719, 253
+  size: 135, 127
+  orig: 270, 270
+  offset: 48, 76
+  index: 3
+AlistriaA_Cast
+  rotate: false
+  xy: 557, 37
+  size: 132, 124
+  orig: 270, 270
+  offset: 49, 79
+  index: 4
+AlistriaA_Cast
+  rotate: false
+  xy: 1562, 1008
+  size: 99, 145
+  orig: 270, 270
+  offset: 81, 60
+  index: 1
+AlistriaA_Cast
+  rotate: false
+  xy: 1562, 862
+  size: 130, 144
+  orig: 270, 270
+  offset: 51, 80
+  index: 20
+AlistriaA_Cast
+  rotate: false
+  xy: 1663, 1014
+  size: 128, 144
+  orig: 270, 270
+  offset: 53, 80
+  index: 21
+AlistriaA_Cast
+  rotate: false
+  xy: 835, 90
+  size: 131, 143
+  orig: 270, 270
+  offset: 51, 80
+  index: 17
+AlistriaA_Cast
+  rotate: false
+  xy: 1280, 308
+  size: 131, 143
+  orig: 270, 270
+  offset: 51, 80
+  index: 18
+AlistriaA_Cast
+  rotate: false
+  xy: 1124, 189
+  size: 131, 143
+  orig: 270, 270
+  offset: 51, 79
+  index: 15
+AlistriaA_Cast
+  rotate: false
+  xy: 968, 88
+  size: 131, 142
+  orig: 270, 270
+  offset: 51, 80
+  index: 16
+AlistriaA_Cast
+  rotate: false
+  xy: 1793, 1020
+  size: 127, 143
+  orig: 270, 270
+  offset: 58, 69
+  index: 27
+AlistriaA_Cast
+  rotate: false
+  xy: 1643, 151
+  size: 130, 142
+  orig: 270, 270
+  offset: 52, 79
+  index: 14
+AlistriaA_Cast
+  rotate: false
+  xy: 1497, 9
+  size: 130, 142
+  orig: 270, 270
+  offset: 52, 79
+  index: 13
+AlistriaA_Cast
+  rotate: false
+  xy: 1776, 305
+  size: 124, 129
+  orig: 270, 270
+  offset: 57, 79
+  index: 6
+AlistriaA_Cast
+  rotate: false
+  xy: 1902, 295
+  size: 129, 140
+  orig: 270, 270
+  offset: 53, 79
+  index: 11
+AlistriaA_Cast
+  rotate: false
+  xy: 1906, 437
+  size: 129, 141
+  orig: 270, 270
+  offset: 53, 79
+  index: 12
+AlistriaA_Cast
+  rotate: false
+  xy: 1775, 12
+  size: 128, 140
+  orig: 270, 270
+  offset: 53, 79
+  index: 10
+AlistriaA_Die
+  rotate: false
+  xy: 184, 1898
+  size: 143, 148
+  orig: 270, 270
+  offset: 58, 87
+  index: 9
+AlistriaA_Die
+  rotate: false
+  xy: 2, 1797
+  size: 180, 117
+  orig: 270, 270
+  offset: 25, 90
+  index: 5
+AlistriaA_Die
+  rotate: false
+  xy: 358, 1751
+  size: 118, 145
+  orig: 270, 270
+  offset: 81, 85
+  index: 13
+AlistriaA_Die
+  rotate: false
+  xy: 2, 1545
+  size: 172, 121
+  orig: 270, 270
+  offset: 33, 88
+  index: 4
+AlistriaA_Die
+  rotate: false
+  xy: 478, 1751
+  size: 150, 145
+  orig: 270, 270
+  offset: 52, 87
+  index: 8
+AlistriaA_Die
+  rotate: false
+  xy: 176, 1519
+  size: 169, 118
+  orig: 270, 270
+  offset: 34, 89
+  index: 6
+AlistriaA_Die
+  rotate: false
+  xy: 667, 1305
+  size: 158, 137
+  orig: 270, 270
+  offset: 45, 88
+  index: 7
+AlistriaA_Die
+  rotate: false
+  xy: 888, 1583
+  size: 102, 150
+  orig: 270, 270
+  offset: 82, 56
+  index: 1
+AlistriaA_Die
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 0
+AlistriaA_Attack
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 30
+AlistriaA_Attack
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 0
+AlistriaA_Hurt
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 30
+AlistriaA_Hurt
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 0
+AlistriaA_Idle
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 0
+AlistriaA_Idle
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 30
+AlistriaA_Spawn
+  rotate: false
+  xy: 1030, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 30
+AlistriaA_Die
+  rotate: false
+  xy: 930, 1293
+  size: 136, 149
+  orig: 270, 270
+  offset: 64, 88
+  index: 10
+AlistriaA_Die
+  rotate: false
+  xy: 1080, 1444
+  size: 117, 146
+  orig: 270, 270
+  offset: 74, 62
+  index: 2
+AlistriaA_Die
+  rotate: false
+  xy: 1208, 993
+  size: 130, 147
+  orig: 270, 270
+  offset: 70, 89
+  index: 11
+AlistriaA_Die
+  rotate: false
+  xy: 1275, 1142
+  size: 124, 147
+  orig: 270, 270
+  offset: 75, 87
+  index: 12
+AlistriaA_Die
+  rotate: false
+  xy: 1340, 994
+  size: 113, 146
+  orig: 270, 270
+  offset: 86, 82
+  index: 14
+AlistriaA_Die
+  rotate: false
+  xy: 606, 574
+  size: 144, 128
+  orig: 270, 270
+  offset: 56, 81
+  index: 3
+AlistriaA_Die
+  rotate: false
+  xy: 1707, 1457
+  size: 108, 145
+  orig: 270, 270
+  offset: 91, 80
+  index: 15
+AlistriaA_Die
+  rotate: false
+  xy: 1692, 572
+  size: 106, 143
+  orig: 270, 270
+  offset: 93, 78
+  index: 16
+AlistriaA_Hurt
+  rotate: false
+  xy: 931, 1896
+  size: 98, 150
+  orig: 270, 270
+  offset: 84, 56
+  index: 1
+AlistriaA_Hurt
+  rotate: false
+  xy: 827, 1293
+  size: 101, 149
+  orig: 270, 270
+  offset: 82, 48
+  index: 28
+AlistriaA_Hurt
+  rotate: false
+  xy: 477, 996
+  size: 153, 91
+  orig: 270, 270
+  offset: 52, 107
+  index: 17
+AlistriaA_Hurt
+  rotate: false
+  xy: 1128, 1744
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 53
+  index: 29
+AlistriaA_Hurt
+  rotate: false
+  xy: 632, 947
+  size: 152, 101
+  orig: 270, 270
+  offset: 48, 94
+  index: 18
+AlistriaA_Hurt
+  rotate: false
+  xy: 954, 1049
+  size: 150, 91
+  orig: 270, 270
+  offset: 59, 110
+  index: 16
+AlistriaA_Hurt
+  rotate: false
+  xy: 623, 836
+  size: 149, 109
+  orig: 270, 270
+  offset: 47, 83
+  index: 19
+AlistriaA_Hurt
+  rotate: false
+  xy: 923, 774
+  size: 145, 114
+  orig: 270, 270
+  offset: 49, 74
+  index: 20
+AlistriaA_Hurt
+  rotate: false
+  xy: 1622, 1752
+  size: 106, 146
+  orig: 270, 270
+  offset: 78, 42
+  index: 27
+AlistriaA_Hurt
+  rotate: false
+  xy: 304, 504
+  size: 144, 98
+  orig: 270, 270
+  offset: 67, 111
+  index: 15
+AlistriaA_Hurt
+  rotate: false
+  xy: 1216, 727
+  size: 140, 118
+  orig: 270, 270
+  offset: 52, 67
+  index: 21
+AlistriaA_Hurt
+  rotate: false
+  xy: 1514, 1155
+  size: 101, 146
+  orig: 270, 270
+  offset: 82, 61
+  index: 2
+AlistriaA_Hurt
+  rotate: false
+  xy: 1730, 1783
+  size: 138, 115
+  orig: 270, 270
+  offset: 62, 104
+  index: 7
+AlistriaA_Hurt
+  rotate: false
+  xy: 752, 515
+  size: 139, 112
+  orig: 270, 270
+  offset: 64, 107
+  index: 8
+AlistriaA_Hurt
+  rotate: false
+  xy: 427, 223
+  size: 137, 103
+  orig: 270, 270
+  offset: 74, 111
+  index: 14
+AlistriaA_Hurt
+  rotate: false
+  xy: 1033, 482
+  size: 136, 109
+  orig: 270, 270
+  offset: 69, 110
+  index: 9
+AlistriaA_Hurt
+  rotate: false
+  xy: 422, 103
+  size: 133, 118
+  orig: 270, 270
+  offset: 63, 99
+  index: 6
+AlistriaA_Hurt
+  rotate: false
+  xy: 284, 2
+  size: 131, 107
+  orig: 270, 270
+  offset: 79, 111
+  index: 13
+AlistriaA_Hurt
+  rotate: false
+  xy: 1146, 334
+  size: 132, 117
+  orig: 270, 270
+  offset: 58, 65
+  index: 22
+AlistriaA_Hurt
+  rotate: false
+  xy: 990, 232
+  size: 132, 110
+  orig: 270, 270
+  offset: 75, 110
+  index: 10
+AlistriaA_Hurt
+  rotate: false
+  xy: 691, 2
+  size: 125, 122
+  orig: 270, 270
+  offset: 64, 59
+  index: 23
+AlistriaA_Idle
+  rotate: false
+  xy: 438, 1898
+  size: 97, 148
+  orig: 270, 270
+  offset: 84, 56
+  index: 26
+AlistriaA_Idle
+  rotate: false
+  xy: 537, 1898
+  size: 97, 148
+  orig: 270, 270
+  offset: 84, 56
+  index: 4
+AlistriaA_Idle
+  rotate: false
+  xy: 1031, 1896
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 2
+AlistriaA_Idle
+  rotate: false
+  xy: 1129, 1896
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 28
+AlistriaA_Idle
+  rotate: false
+  xy: 1090, 1592
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 1
+AlistriaA_Idle
+  rotate: false
+  xy: 1227, 1896
+  size: 96, 150
+  orig: 270, 270
+  offset: 85, 55
+  index: 29
+AlistriaA_Idle
+  rotate: false
+  xy: 1177, 1293
+  size: 96, 149
+  orig: 270, 270
+  offset: 85, 55
+  index: 27
+AlistriaA_Idle
+  rotate: false
+  xy: 1325, 1897
+  size: 96, 149
+  orig: 270, 270
+  offset: 85, 55
+  index: 3
+AlistriaA_Idle
+  rotate: false
+  xy: 1423, 1898
+  size: 97, 148
+  orig: 270, 270
+  offset: 84, 56
+  index: 25
+AlistriaA_Idle
+  rotate: false
+  xy: 1423, 1748
+  size: 97, 148
+  orig: 270, 270
+  offset: 84, 56
+  index: 5
+AlistriaA_Idle
+  rotate: false
+  xy: 1522, 1899
+  size: 98, 147
+  orig: 270, 270
+  offset: 83, 56
+  index: 6
+AlistriaA_Idle
+  rotate: false
+  xy: 1522, 1750
+  size: 98, 147
+  orig: 270, 270
+  offset: 83, 56
+  index: 24
+AlistriaA_Idle
+  rotate: false
+  xy: 1607, 1454
+  size: 98, 146
+  orig: 270, 270
+  offset: 83, 57
+  index: 7
+AlistriaA_Idle
+  rotate: false
+  xy: 1685, 1604
+  size: 98, 146
+  orig: 270, 270
+  offset: 83, 57
+  index: 23
+AlistriaA_Idle
+  rotate: false
+  xy: 1943, 1905
+  size: 103, 141
+  orig: 270, 270
+  offset: 78, 60
+  index: 17
+AlistriaA_Idle
+  rotate: false
+  xy: 1455, 848
+  size: 99, 145
+  orig: 270, 270
+  offset: 82, 57
+  index: 22
+AlistriaA_Idle
+  rotate: false
+  xy: 1329, 554
+  size: 99, 145
+  orig: 270, 270
+  offset: 82, 57
+  index: 8
+AlistriaA_Idle
+  rotate: false
+  xy: 1817, 1490
+  size: 99, 144
+  orig: 270, 270
+  offset: 82, 58
+  index: 10
+AlistriaA_Idle
+  rotate: false
+  xy: 1892, 1637
+  size: 99, 144
+  orig: 270, 270
+  offset: 82, 58
+  index: 20
+AlistriaA_Idle
+  rotate: false
+  xy: 1724, 1165
+  size: 99, 144
+  orig: 270, 270
+  offset: 82, 58
+  index: 9
+AlistriaA_Idle
+  rotate: false
+  xy: 1556, 716
+  size: 99, 144
+  orig: 270, 270
+  offset: 82, 58
+  index: 21
+AlistriaA_Idle
+  rotate: false
+  xy: 1629, 7
+  size: 102, 142
+  orig: 270, 270
+  offset: 79, 59
+  index: 18
+AlistriaA_Spawn
+  rotate: false
+  xy: 1226, 1744
+  size: 95, 150
+  orig: 270, 270
+  offset: 86, 56
+  index: 29
+AlistriaA_Spawn
+  rotate: false
+  xy: 1325, 1746
+  size: 95, 149
+  orig: 270, 270
+  offset: 86, 61
+  index: 27
+AlistriaA_Spawn
+  rotate: false
+  xy: 1178, 1142
+  size: 95, 149
+  orig: 270, 270
+  offset: 86, 58
+  index: 28
+AlistriaA_Spawn
+  rotate: false
+  xy: 1383, 1595
+  size: 80, 149
+  orig: 270, 270
+  offset: 100, 121
+  index: 4
+AlistriaA_Spawn
+  rotate: false
+  xy: 1275, 1291
+  size: 93, 148
+  orig: 270, 270
+  offset: 87, 65
+  index: 26
+AlistriaA_Spawn
+  rotate: false
+  xy: 1370, 1291
+  size: 88, 148
+  orig: 270, 270
+  offset: 91, 122
+  index: 5
+AlistriaA_Spawn
+  rotate: false
+  xy: 1410, 1445
+  size: 82, 148
+  orig: 270, 270
+  offset: 95, 112
+  index: 3
+AlistriaA_Spawn
+  rotate: false
+  xy: 1731, 1900
+  size: 91, 146
+  orig: 270, 270
+  offset: 88, 70
+  index: 25
+AlistriaA_Spawn
+  rotate: false
+  xy: 1367, 855
+  size: 86, 137
+  orig: 270, 270
+  offset: 89, 109
+  index: 2
+AlistriaA_Spawn
+  rotate: false
+  xy: 1430, 433
+  size: 92, 144
+  orig: 270, 270
+  offset: 87, 75
+  index: 24
+AlistriaA_Spawn
+  rotate: false
+  xy: 1825, 875
+  size: 92, 143
+  orig: 270, 270
+  offset: 87, 80
+  index: 23
+AlistriaB_Attack
+  rotate: false
+  xy: 176, 1639
+  size: 172, 125
+  orig: 270, 270
+  offset: 89, 78
+  index: 11
+AlistriaB_Attack
+  rotate: false
+  xy: 347, 1500
+  size: 166, 118
+  orig: 270, 270
+  offset: 90, 78
+  index: 12
+AlistriaB_Attack
+  rotate: false
+  xy: 170, 1393
+  size: 165, 124
+  orig: 270, 270
+  offset: 93, 79
+  index: 19
+AlistriaB_Attack
+  rotate: false
+  xy: 626, 1596
+  size: 163, 121
+  orig: 270, 270
+  offset: 92, 79
+  index: 17
+AlistriaB_Attack
+  rotate: false
+  xy: 337, 1376
+  size: 164, 122
+  orig: 270, 270
+  offset: 93, 79
+  index: 18
+AlistriaB_Attack
+  rotate: false
+  xy: 2, 1158
+  size: 162, 126
+  orig: 270, 270
+  offset: 93, 79
+  index: 20
+AlistriaB_Attack
+  rotate: false
+  xy: 166, 1141
+  size: 159, 121
+  orig: 270, 270
+  offset: 92, 78
+  index: 16
+AlistriaB_Attack
+  rotate: false
+  xy: 2, 1018
+  size: 158, 138
+  orig: 270, 270
+  offset: 25, 66
+  index: 8
+AlistriaB_Attack
+  rotate: false
+  xy: 2, 888
+  size: 156, 128
+  orig: 270, 270
+  offset: 93, 79
+  index: 21
+AlistriaB_Attack
+  rotate: false
+  xy: 487, 1089
+  size: 156, 122
+  orig: 270, 270
+  offset: 91, 76
+  index: 15
+AlistriaB_Attack
+  rotate: false
+  xy: 160, 889
+  size: 154, 123
+  orig: 270, 270
+  offset: 90, 74
+  index: 14
+AlistriaB_Attack
+  rotate: false
+  xy: 645, 1050
+  size: 153, 123
+  orig: 270, 270
+  offset: 90, 73
+  index: 13
+AlistriaB_Attack
+  rotate: false
+  xy: 2, 752
+  size: 152, 134
+  orig: 270, 270
+  offset: 30, 67
+  index: 4
+AlistriaB_Attack
+  rotate: false
+  xy: 470, 858
+  size: 151, 136
+  orig: 270, 270
+  offset: 32, 63
+  index: 7
+AlistriaB_Attack
+  rotate: false
+  xy: 307, 604
+  size: 148, 129
+  orig: 270, 270
+  offset: 93, 79
+  index: 22
+AlistriaB_Attack
+  rotate: false
+  xy: 774, 760
+  size: 147, 133
+  orig: 270, 270
+  offset: 38, 63
+  index: 5
+AlistriaB_Attack
+  rotate: false
+  xy: 2, 132
+  size: 140, 131
+  orig: 270, 270
+  offset: 89, 79
+  index: 23
+AlistriaB_Attack
+  rotate: false
+  xy: 893, 494
+  size: 138, 133
+  orig: 270, 270
+  offset: 45, 62
+  index: 6
+AlistriaB_Attack
+  rotate: false
+  xy: 1234, 32
+  size: 129, 132
+  orig: 270, 270
+  offset: 87, 79
+  index: 24
+AlistriaB_Cast
+  rotate: false
+  xy: 2, 639
+  size: 151, 111
+  orig: 270, 270
+  offset: 89, 78
+  index: 8
+AlistriaB_Cast
+  rotate: false
+  xy: 2, 401
+  size: 148, 112
+  orig: 270, 270
+  offset: 90, 77
+  index: 25
+AlistriaB_Cast
+  rotate: false
+  xy: 457, 606
+  size: 147, 111
+  orig: 270, 270
+  offset: 89, 73
+  index: 24
+AlistriaB_Cast
+  rotate: false
+  xy: 152, 380
+  size: 143, 113
+  orig: 270, 270
+  offset: 89, 81
+  index: 7
+AlistriaB_Cast
+  rotate: false
+  xy: 297, 374
+  size: 141, 119
+  orig: 270, 270
+  offset: 89, 79
+  index: 26
+AlistriaB_Cast
+  rotate: false
+  xy: 287, 239
+  size: 138, 133
+  orig: 270, 270
+  offset: 89, 51
+  index: 23
+AlistriaB_Cast
+  rotate: false
+  xy: 144, 109
+  size: 138, 133
+  orig: 270, 270
+  offset: 89, 52
+  index: 9
+AlistriaB_Cast
+  rotate: false
+  xy: 875, 363
+  size: 135, 129
+  orig: 270, 270
+  offset: 87, 81
+  index: 3
+AlistriaB_Cast
+  rotate: false
+  xy: 1171, 453
+  size: 132, 138
+  orig: 270, 270
+  offset: 88, 39
+  index: 19
+AlistriaB_Cast
+  rotate: false
+  xy: 856, 235
+  size: 132, 126
+  orig: 270, 270
+  offset: 89, 81
+  index: 4
+AlistriaB_Cast
+  rotate: false
+  xy: 1524, 436
+  size: 131, 141
+  orig: 270, 270
+  offset: 88, 39
+  index: 14
+AlistriaB_Cast
+  rotate: false
+  xy: 1657, 717
+  size: 130, 143
+  orig: 270, 270
+  offset: 88, 39
+  index: 12
+AlistriaB_Cast
+  rotate: false
+  xy: 1694, 869
+  size: 129, 143
+  orig: 270, 270
+  offset: 88, 40
+  index: 11
+AlistriaB_Cast
+  rotate: false
+  xy: 1918, 1493
+  size: 128, 142
+  orig: 270, 270
+  offset: 89, 41
+  index: 10
+AlistriaB_Cast
+  rotate: false
+  xy: 1257, 166
+  size: 131, 140
+  orig: 270, 270
+  offset: 88, 39
+  index: 15
+AlistriaB_Cast
+  rotate: false
+  xy: 1101, 47
+  size: 131, 140
+  orig: 270, 270
+  offset: 88, 38
+  index: 20
+AlistriaB_Cast
+  rotate: false
+  xy: 1390, 166
+  size: 131, 140
+  orig: 270, 270
+  offset: 88, 39
+  index: 16
+AlistriaB_Cast
+  rotate: false
+  xy: 1643, 295
+  size: 131, 139
+  orig: 270, 270
+  offset: 88, 39
+  index: 18
+AlistriaB_Cast
+  rotate: false
+  xy: 1365, 22
+  size: 130, 142
+  orig: 270, 270
+  offset: 89, 38
+  index: 22
+AlistriaB_Cast
+  rotate: false
+  xy: 1775, 154
+  size: 131, 139
+  orig: 270, 270
+  offset: 88, 39
+  index: 17
+AlistriaB_Cast
+  rotate: false
+  xy: 1800, 580
+  size: 130, 142
+  orig: 270, 270
+  offset: 88, 39
+  index: 13
+AlistriaB_Cast
+  rotate: false
+  xy: 1884, 731
+  size: 128, 142
+  orig: 270, 270
+  offset: 89, 36
+  index: 21
+AlistriaB_Cast
+  rotate: false
+  xy: 1919, 892
+  size: 127, 126
+  orig: 270, 270
+  offset: 85, 79
+  index: 27
+AlistriaB_Die
+  rotate: false
+  xy: 2, 1916
+  size: 180, 130
+  orig: 270, 270
+  offset: 65, 94
+  index: 5
+AlistriaB_Die
+  rotate: false
+  xy: 184, 1766
+  size: 172, 130
+  orig: 270, 270
+  offset: 65, 91
+  index: 4
+AlistriaB_Die
+  rotate: false
+  xy: 350, 1620
+  size: 169, 129
+  orig: 270, 270
+  offset: 67, 96
+  index: 6
+AlistriaB_Die
+  rotate: false
+  xy: 782, 1444
+  size: 143, 121
+  orig: 270, 270
+  offset: 69, 86
+  index: 9
+AlistriaB_Die
+  rotate: false
+  xy: 494, 1213
+  size: 158, 126
+  orig: 270, 270
+  offset: 67, 97
+  index: 7
+AlistriaB_Die
+  rotate: false
+  xy: 2, 515
+  size: 150, 122
+  orig: 270, 270
+  offset: 68, 94
+  index: 8
+AlistriaB_Die
+  rotate: false
+  xy: 1199, 1444
+  size: 113, 146
+  orig: 270, 270
+  offset: 71, 14
+  index: 25
+AlistriaB_Die
+  rotate: false
+  xy: 1494, 1451
+  size: 111, 146
+  orig: 270, 270
+  offset: 71, 14
+  index: 24
+AlistriaB_Die
+  rotate: false
+  xy: 1574, 1602
+  size: 109, 146
+  orig: 270, 270
+  offset: 71, 14
+  index: 23
+AlistriaB_Die
+  rotate: false
+  xy: 1622, 1900
+  size: 107, 146
+  orig: 270, 270
+  offset: 71, 14
+  index: 22
+AlistriaB_Die
+  rotate: false
+  xy: 1494, 1303
+  size: 106, 146
+  orig: 270, 270
+  offset: 71, 14
+  index: 21
+AlistriaB_Die
+  rotate: false
+  xy: 1070, 724
+  size: 144, 131
+  orig: 270, 270
+  offset: 70, 87
+  index: 3
+AlistriaB_Die
+  rotate: false
+  xy: 1455, 995
+  size: 105, 146
+  orig: 270, 270
+  offset: 71, 14
+  index: 20
+AlistriaB_Die
+  rotate: false
+  xy: 1824, 1901
+  size: 117, 145
+  orig: 270, 270
+  offset: 71, 15
+  index: 27
+AlistriaB_Die
+  rotate: false
+  xy: 1607, 1307
+  size: 115, 145
+  orig: 270, 270
+  offset: 71, 15
+  index: 26
+AlistriaB_Die
+  rotate: false
+  xy: 1785, 1636
+  size: 105, 145
+  orig: 270, 270
+  offset: 71, 15
+  index: 19
+AlistriaB_Die
+  rotate: false
+  xy: 1191, 601
+  size: 136, 121
+  orig: 270, 270
+  offset: 70, 78
+  index: 10
+AlistriaB_Die
+  rotate: false
+  xy: 1724, 1311
+  size: 118, 144
+  orig: 270, 270
+  offset: 71, 16
+  index: 28
+AlistriaB_Die
+  rotate: false
+  xy: 1825, 1166
+  size: 120, 143
+  orig: 270, 270
+  offset: 71, 17
+  index: 30
+AlistriaB_Die
+  rotate: false
+  xy: 1844, 1345
+  size: 120, 143
+  orig: 270, 270
+  offset: 71, 17
+  index: 29
+AlistriaB_Die
+  rotate: false
+  xy: 1413, 308
+  size: 106, 123
+  orig: 270, 270
+  offset: 71, 37
+  index: 16
+AlistriaB_Hurt
+  rotate: false
+  xy: 316, 860
+  size: 152, 135
+  orig: 270, 270
+  offset: 70, 53
+  index: 18
+AlistriaB_Hurt
+  rotate: false
+  xy: 156, 754
+  size: 152, 132
+  orig: 270, 270
+  offset: 65, 49
+  index: 17
+AlistriaB_Hurt
+  rotate: false
+  xy: 155, 621
+  size: 150, 129
+  orig: 270, 270
+  offset: 61, 45
+  index: 16
+AlistriaB_Hurt
+  rotate: false
+  xy: 786, 895
+  size: 149, 135
+  orig: 270, 270
+  offset: 74, 58
+  index: 19
+AlistriaB_Hurt
+  rotate: false
+  xy: 1086, 857
+  size: 146, 134
+  orig: 270, 270
+  offset: 76, 63
+  index: 20
+AlistriaB_Hurt
+  rotate: false
+  xy: 762, 629
+  size: 144, 129
+  orig: 270, 270
+  offset: 59, 41
+  index: 15
+AlistriaB_Hurt
+  rotate: false
+  xy: 145, 244
+  size: 140, 134
+  orig: 270, 270
+  offset: 78, 66
+  index: 21
+AlistriaB_Hurt
+  rotate: false
+  xy: 1050, 593
+  size: 139, 129
+  orig: 270, 270
+  offset: 67, 47
+  index: 8
+AlistriaB_Hurt
+  rotate: false
+  xy: 735, 382
+  size: 138, 131
+  orig: 270, 270
+  offset: 70, 52
+  index: 7
+AlistriaB_Hurt
+  rotate: false
+  xy: 580, 297
+  size: 137, 130
+  orig: 270, 270
+  offset: 59, 39
+  index: 14
+AlistriaB_Hurt
+  rotate: false
+  xy: 284, 111
+  size: 136, 126
+  orig: 270, 270
+  offset: 65, 43
+  index: 9
+AlistriaB_Hurt
+  rotate: false
+  xy: 566, 163
+  size: 133, 132
+  orig: 270, 270
+  offset: 74, 58
+  index: 6
+AlistriaB_Hurt
+  rotate: false
+  xy: 1012, 344
+  size: 132, 136
+  orig: 270, 270
+  offset: 80, 68
+  index: 22
+AlistriaB_Hurt
+  rotate: false
+  xy: 701, 126
+  size: 132, 125
+  orig: 270, 270
+  offset: 63, 40
+  index: 10
+AlistriaB_Hurt
+  rotate: false
+  xy: 1780, 437
+  size: 124, 133
+  orig: 270, 270
+  offset: 78, 64
+  index: 5
+AlistriaB_Hurt
+  rotate: false
+  xy: 1922, 1024
+  size: 124, 140
+  orig: 270, 270
+  offset: 81, 73
+  index: 24
+AlistriaB_Hurt
+  rotate: false
+  xy: 1905, 10
+  size: 106, 142
+  orig: 270, 270
+  offset: 86, 77
+  index: 27
+AlistriaB_Hurt
+  rotate: false
+  xy: 1908, 154
+  size: 126, 139
+  orig: 270, 270
+  offset: 81, 70
+  index: 23
+AlistriaB_Spawn
+  rotate: false
+  xy: 329, 1898
+  size: 107, 148
+  orig: 270, 270
+  offset: 73, 108
+  index: 9
+AlistriaB_Spawn
+  rotate: false
+  xy: 521, 1596
+  size: 103, 153
+  orig: 270, 270
+  offset: 77, 106
+  index: 11
+AlistriaB_Spawn
+  rotate: false
+  xy: 636, 1883
+  size: 95, 163
+  orig: 270, 270
+  offset: 85, 107
+  index: 14
+AlistriaB_Spawn
+  rotate: false
+  xy: 630, 1719
+  size: 96, 162
+  orig: 270, 270
+  offset: 86, 108
+  index: 15
+AlistriaB_Spawn
+  rotate: false
+  xy: 733, 1885
+  size: 94, 161
+  orig: 270, 270
+  offset: 85, 107
+  index: 13
+AlistriaB_Spawn
+  rotate: false
+  xy: 733, 1723
+  size: 96, 160
+  orig: 270, 270
+  offset: 87, 109
+  index: 16
+AlistriaB_Spawn
+  rotate: false
+  xy: 829, 1888
+  size: 100, 158
+  orig: 270, 270
+  offset: 80, 106
+  index: 12
+AlistriaB_Spawn
+  rotate: false
+  xy: 791, 1567
+  size: 95, 154
+  orig: 270, 270
+  offset: 88, 111
+  index: 17
+AlistriaB_Spawn
+  rotate: false
+  xy: 1068, 1293
+  size: 107, 149
+  orig: 270, 270
+  offset: 74, 107
+  index: 10
+AlistriaB_Spawn
+  rotate: false
+  xy: 1314, 1441
+  size: 94, 149
+  orig: 270, 270
+  offset: 90, 110
+  index: 18
+AlistriaB_Spawn
+  rotate: false
+  xy: 1401, 1143
+  size: 111, 146
+  orig: 270, 270
+  offset: 72, 110
+  index: 8
+AlistriaB_Spawn
+  rotate: false
+  xy: 1870, 1783
+  size: 94, 116
+  orig: 270, 270
+  offset: 95, 105
+  index: 0
+AlistriaB_Spawn
+  rotate: false
+  xy: 1966, 1785
+  size: 80, 118
+  orig: 270, 270
+  offset: 90, 119
+  index: 4
+AlistriaB_Spawn
+  rotate: false
+  xy: 1789, 724
+  size: 93, 143
+  orig: 270, 270
+  offset: 91, 108
+  index: 19
+Alistria_Switch
+  rotate: false
+  xy: 1286, 1592
+  size: 95, 150
+  orig: 270, 270
+  offset: 86, 53
+  index: 30
+Alistria_Switch
+  rotate: false
+  xy: 1106, 993
+  size: 100, 147
+  orig: 270, 270
+  offset: 81, 53
+  index: 29
+Alistria_Switch
+  rotate: false
+  xy: 1430, 579
+  size: 132, 120
+  orig: 270, 270
+  offset: 46, 70
+  index: 25
+Alistria_Switch
+  rotate: false
+  xy: 1564, 579
+  size: 126, 135
+  orig: 270, 270
+  offset: 70, 82
+  index: 6
+Alistria_Switch
+  rotate: false
+  xy: 1657, 436
+  size: 121, 134
+  orig: 270, 270
+  offset: 71, 88
+  index: 8
+Alistria_Switch
+  rotate: false
+  xy: 1523, 153
+  size: 118, 136
+  orig: 270, 270
+  offset: 78, 79
+  index: 3
+Alistria_Switch
+  rotate: false
+  xy: 1932, 589
+  size: 113, 140
+  orig: 270, 270
+  offset: 60, 66
+  index: 21
+Alistria_Switch
+  rotate: false
+  xy: 1947, 1208
+  size: 99, 135
+  orig: 270, 270
+  offset: 87, 79
+  index: 1
+
+character_12.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+AlistriaA_Attack
+  rotate: false
+  xy: 2, 1907
+  size: 129, 136
+  orig: 270, 270
+  offset: 54, 69
+  index: 24
+AlistriaA_Attack
+  rotate: false
+  xy: 786, 1658
+  size: 119, 125
+  orig: 270, 270
+  offset: 100, 82
+  index: 3
+AlistriaA_Attack
+  rotate: false
+  xy: 1727, 1781
+  size: 111, 130
+  orig: 270, 270
+  offset: 72, 74
+  index: 10
+AlistriaA_Attack
+  rotate: false
+  xy: 981, 1525
+  size: 93, 127
+  orig: 270, 270
+  offset: 94, 71
+  index: 9
+AlistriaA_Cast
+  rotate: false
+  xy: 237, 382
+  size: 121, 126
+  orig: 270, 270
+  offset: 59, 79
+  index: 5
+AlistriaA_Cast
+  rotate: false
+  xy: 553, 1663
+  size: 116, 124
+  orig: 270, 270
+  offset: 66, 80
+  index: 2
+AlistriaA_Die
+  rotate: false
+  xy: 1548, 1913
+  size: 120, 130
+  orig: 270, 270
+  offset: 79, 74
+  index: 30
+AlistriaA_Die
+  rotate: false
+  xy: 1670, 1913
+  size: 120, 130
+  orig: 270, 270
+  offset: 79, 74
+  index: 29
+AlistriaA_Die
+  rotate: false
+  xy: 1792, 1913
+  size: 119, 130
+  orig: 270, 270
+  offset: 80, 74
+  index: 28
+AlistriaA_Die
+  rotate: false
+  xy: 1913, 1912
+  size: 117, 131
+  orig: 270, 270
+  offset: 82, 74
+  index: 27
+AlistriaA_Die
+  rotate: false
+  xy: 121, 653
+  size: 111, 133
+  orig: 270, 270
+  offset: 88, 74
+  index: 24
+AlistriaA_Die
+  rotate: false
+  xy: 122, 382
+  size: 113, 132
+  orig: 270, 270
+  offset: 86, 74
+  index: 25
+AlistriaA_Die
+  rotate: false
+  xy: 234, 653
+  size: 109, 133
+  orig: 270, 270
+  offset: 90, 74
+  index: 23
+AlistriaA_Die
+  rotate: false
+  xy: 335, 112
+  size: 105, 134
+  orig: 270, 270
+  offset: 94, 74
+  index: 20
+AlistriaA_Die
+  rotate: false
+  xy: 130, 1770
+  size: 105, 135
+  orig: 270, 270
+  offset: 94, 74
+  index: 19
+AlistriaA_Die
+  rotate: false
+  xy: 222, 1067
+  size: 104, 140
+  orig: 270, 270
+  offset: 95, 76
+  index: 17
+AlistriaA_Die
+  rotate: false
+  xy: 339, 1491
+  size: 104, 137
+  orig: 270, 270
+  offset: 95, 75
+  index: 18
+AlistriaA_Die
+  rotate: false
+  xy: 340, 1355
+  size: 107, 134
+  orig: 270, 270
+  offset: 92, 74
+  index: 22
+AlistriaA_Die
+  rotate: false
+  xy: 785, 1785
+  size: 115, 131
+  orig: 270, 270
+  offset: 84, 74
+  index: 26
+AlistriaA_Die
+  rotate: false
+  xy: 445, 1494
+  size: 106, 134
+  orig: 270, 270
+  offset: 93, 74
+  index: 21
+AlistriaA_Hurt
+  rotate: false
+  xy: 2, 1067
+  size: 112, 141
+  orig: 270, 270
+  offset: 74, 39
+  index: 26
+AlistriaA_Hurt
+  rotate: false
+  xy: 2, 383
+  size: 118, 133
+  orig: 270, 270
+  offset: 69, 41
+  index: 25
+AlistriaA_Hurt
+  rotate: false
+  xy: 1175, 1913
+  size: 123, 130
+  orig: 270, 270
+  offset: 66, 48
+  index: 24
+AlistriaA_Hurt
+  rotate: false
+  xy: 2, 2
+  size: 129, 109
+  orig: 270, 270
+  offset: 79, 111
+  index: 11
+AlistriaA_Hurt
+  rotate: false
+  xy: 133, 3
+  size: 128, 108
+  orig: 270, 270
+  offset: 81, 111
+  index: 12
+AlistriaA_Hurt
+  rotate: false
+  xy: 237, 510
+  size: 108, 141
+  orig: 270, 270
+  offset: 77, 69
+  index: 3
+AlistriaA_Hurt
+  rotate: false
+  xy: 314, 1222
+  size: 115, 131
+  orig: 270, 270
+  offset: 73, 81
+  index: 4
+AlistriaA_Hurt
+  rotate: false
+  xy: 1257, 1791
+  size: 124, 120
+  orig: 270, 270
+  offset: 68, 95
+  index: 5
+AlistriaA_Idle
+  rotate: false
+  xy: 123, 1488
+  size: 102, 142
+  orig: 270, 270
+  offset: 79, 59
+  index: 12
+AlistriaA_Idle
+  rotate: false
+  xy: 211, 1209
+  size: 101, 142
+  orig: 270, 270
+  offset: 80, 59
+  index: 19
+AlistriaA_Idle
+  rotate: false
+  xy: 237, 1764
+  size: 101, 142
+  orig: 270, 270
+  offset: 80, 59
+  index: 11
+AlistriaA_Idle
+  rotate: false
+  xy: 341, 1630
+  size: 104, 141
+  orig: 270, 270
+  offset: 77, 60
+  index: 15
+AlistriaA_Idle
+  rotate: false
+  xy: 328, 1079
+  size: 104, 141
+  orig: 270, 270
+  offset: 77, 60
+  index: 14
+AlistriaA_Idle
+  rotate: false
+  xy: 447, 1633
+  size: 104, 141
+  orig: 270, 270
+  offset: 77, 60
+  index: 16
+AlistriaA_Idle
+  rotate: false
+  xy: 434, 1079
+  size: 103, 141
+  orig: 270, 270
+  offset: 78, 60
+  index: 13
+AlistriaA_Spawn
+  rotate: false
+  xy: 116, 1209
+  size: 93, 142
+  orig: 270, 270
+  offset: 86, 84
+  index: 22
+AlistriaA_Spawn
+  rotate: false
+  xy: 116, 1067
+  size: 104, 140
+  orig: 270, 270
+  offset: 81, 122
+  index: 6
+AlistriaA_Spawn
+  rotate: false
+  xy: 120, 113
+  size: 113, 133
+  orig: 270, 270
+  offset: 82, 116
+  index: 7
+AlistriaA_Spawn
+  rotate: false
+  xy: 233, 788
+  size: 107, 136
+  orig: 270, 270
+  offset: 89, 108
+  index: 10
+AlistriaA_Spawn
+  rotate: false
+  xy: 902, 1785
+  size: 111, 131
+  orig: 270, 270
+  offset: 87, 112
+  index: 8
+AlistriaA_Spawn
+  rotate: false
+  xy: 316, 927
+  size: 93, 138
+  orig: 270, 270
+  offset: 86, 90
+  index: 21
+AlistriaA_Spawn
+  rotate: false
+  xy: 411, 943
+  size: 107, 134
+  orig: 270, 270
+  offset: 90, 110
+  index: 9
+AlistriaA_Spawn
+  rotate: false
+  xy: 345, 653
+  size: 95, 133
+  orig: 270, 270
+  offset: 90, 108
+  index: 14
+AlistriaA_Spawn
+  rotate: false
+  xy: 442, 669
+  size: 104, 135
+  orig: 270, 270
+  offset: 89, 108
+  index: 11
+AlistriaA_Spawn
+  rotate: false
+  xy: 553, 1397
+  size: 100, 135
+  orig: 270, 270
+  offset: 90, 108
+  index: 12
+AlistriaA_Spawn
+  rotate: false
+  xy: 1266, 1523
+  size: 93, 130
+  orig: 270, 270
+  offset: 83, 107
+  index: 1
+AlistriaA_Spawn
+  rotate: false
+  xy: 1361, 1524
+  size: 94, 129
+  orig: 270, 270
+  offset: 81, 107
+  index: 0
+AlistriaA_Spawn
+  rotate: false
+  xy: 1457, 1525
+  size: 96, 128
+  orig: 270, 270
+  offset: 87, 110
+  index: 16
+AlistriaA_Spawn
+  rotate: false
+  xy: 1529, 1657
+  size: 93, 127
+  orig: 270, 270
+  offset: 86, 106
+  index: 19
+AlistriaA_Spawn
+  rotate: false
+  xy: 1555, 1530
+  size: 95, 125
+  orig: 270, 270
+  offset: 87, 111
+  index: 17
+AlistriaA_Spawn
+  rotate: false
+  xy: 639, 1124
+  size: 94, 134
+  orig: 270, 270
+  offset: 91, 108
+  index: 13
+AlistriaA_Spawn
+  rotate: false
+  xy: 933, 1123
+  size: 96, 131
+  orig: 270, 270
+  offset: 88, 109
+  index: 15
+AlistriaA_Spawn
+  rotate: false
+  xy: 1131, 1252
+  size: 93, 134
+  orig: 270, 270
+  offset: 86, 97
+  index: 20
+AlistriaA_Spawn
+  rotate: false
+  xy: 1226, 1261
+  size: 94, 124
+  orig: 270, 270
+  offset: 86, 111
+  index: 18
+AlistriaB_Attack
+  rotate: false
+  xy: 2, 1353
+  size: 119, 135
+  orig: 270, 270
+  offset: 51, 74
+  index: 3
+AlistriaB_Attack
+  rotate: false
+  xy: 2, 653
+  size: 117, 133
+  orig: 270, 270
+  offset: 86, 79
+  index: 25
+AlistriaB_Attack
+  rotate: false
+  xy: 220, 926
+  size: 94, 139
+  orig: 270, 270
+  offset: 82, 73
+  index: 9
+AlistriaB_Attack
+  rotate: false
+  xy: 227, 1491
+  size: 110, 138
+  orig: 270, 270
+  offset: 87, 78
+  index: 10
+AlistriaB_Attack
+  rotate: false
+  xy: 1840, 1776
+  size: 107, 134
+  orig: 270, 270
+  offset: 86, 79
+  index: 26
+AlistriaB_Attack
+  rotate: false
+  xy: 440, 806
+  size: 103, 135
+  orig: 270, 270
+  offset: 87, 79
+  index: 27
+AlistriaB_Attack
+  rotate: false
+  xy: 548, 532
+  size: 96, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 29
+AlistriaB_Attack
+  rotate: false
+  xy: 1370, 1387
+  size: 94, 135
+  orig: 270, 270
+  offset: 86, 79
+  index: 1
+AlistriaB_Attack
+  rotate: false
+  xy: 1466, 1388
+  size: 99, 135
+  orig: 270, 270
+  offset: 88, 79
+  index: 28
+AlistriaB_Attack
+  rotate: false
+  xy: 538, 1222
+  size: 95, 134
+  orig: 270, 270
+  offset: 81, 79
+  index: 2
+AlistriaB_Cast
+  rotate: false
+  xy: 121, 248
+  size: 116, 132
+  orig: 270, 270
+  offset: 88, 80
+  index: 2
+AlistriaB_Cast
+  rotate: false
+  xy: 431, 1222
+  size: 105, 131
+  orig: 270, 270
+  offset: 85, 79
+  index: 28
+AlistriaB_Cast
+  rotate: false
+  xy: 1134, 1788
+  size: 121, 123
+  orig: 270, 270
+  offset: 90, 81
+  index: 5
+AlistriaB_Cast
+  rotate: false
+  xy: 1601, 1792
+  size: 124, 119
+  orig: 270, 270
+  offset: 89, 81
+  index: 6
+AlistriaB_Cast
+  rotate: false
+  xy: 461, 395
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 0
+AlistriaB_Cast
+  rotate: false
+  xy: 461, 395
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 30
+AlistriaB_Cast
+  rotate: false
+  xy: 1940, 1640
+  size: 100, 134
+  orig: 270, 270
+  offset: 89, 80
+  index: 1
+AlistriaB_Cast
+  rotate: false
+  xy: 936, 1256
+  size: 97, 134
+  orig: 270, 270
+  offset: 88, 79
+  index: 29
+AlistriaB_Die
+  rotate: false
+  xy: 917, 1923
+  size: 130, 120
+  orig: 270, 270
+  offset: 70, 72
+  index: 11
+AlistriaB_Die
+  rotate: false
+  xy: 2, 248
+  size: 117, 133
+  orig: 270, 270
+  offset: 79, 83
+  index: 2
+AlistriaB_Die
+  rotate: false
+  xy: 1049, 1917
+  size: 124, 126
+  orig: 270, 270
+  offset: 71, 65
+  index: 12
+AlistriaB_Die
+  rotate: false
+  xy: 123, 1353
+  size: 104, 133
+  orig: 270, 270
+  offset: 71, 27
+  index: 17
+AlistriaB_Die
+  rotate: false
+  xy: 446, 1776
+  size: 104, 141
+  orig: 270, 270
+  offset: 71, 20
+  index: 18
+AlistriaB_Die
+  rotate: false
+  xy: 671, 1660
+  size: 113, 122
+  orig: 270, 270
+  offset: 71, 53
+  index: 14
+AlistriaB_Die
+  rotate: false
+  xy: 1015, 1787
+  size: 117, 128
+  orig: 270, 270
+  offset: 71, 58
+  index: 13
+AlistriaB_Die
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 0
+AlistriaB_Attack
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 30
+AlistriaB_Attack
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 0
+AlistriaB_Hurt
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 30
+AlistriaB_Hurt
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 0
+AlistriaB_Idle
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 30
+AlistriaB_Idle
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 0
+AlistriaB_Spawn
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 30
+Alistria_Switch
+  rotate: false
+  xy: 347, 516
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 0
+AlistriaB_Die
+  rotate: false
+  xy: 444, 532
+  size: 102, 135
+  orig: 270, 270
+  offset: 86, 80
+  index: 1
+AlistriaB_Die
+  rotate: false
+  xy: 1830, 1661
+  size: 108, 113
+  orig: 270, 270
+  offset: 71, 48
+  index: 15
+AlistriaB_Hurt
+  rotate: false
+  xy: 2, 1490
+  size: 119, 140
+  orig: 270, 270
+  offset: 82, 74
+  index: 25
+AlistriaB_Hurt
+  rotate: false
+  xy: 260, 1916
+  size: 131, 127
+  orig: 270, 270
+  offset: 60, 38
+  index: 13
+AlistriaB_Hurt
+  rotate: false
+  xy: 393, 1919
+  size: 129, 124
+  orig: 270, 270
+  offset: 62, 38
+  index: 11
+AlistriaB_Hurt
+  rotate: false
+  xy: 2, 1210
+  size: 112, 141
+  orig: 270, 270
+  offset: 84, 76
+  index: 26
+AlistriaB_Hurt
+  rotate: false
+  xy: 787, 1918
+  size: 128, 125
+  orig: 270, 270
+  offset: 61, 37
+  index: 12
+AlistriaB_Hurt
+  rotate: false
+  xy: 2, 113
+  size: 116, 133
+  orig: 270, 270
+  offset: 82, 70
+  index: 4
+AlistriaB_Hurt
+  rotate: false
+  xy: 117, 926
+  size: 101, 139
+  orig: 270, 270
+  offset: 87, 79
+  index: 28
+AlistriaB_Hurt
+  rotate: false
+  xy: 229, 1355
+  size: 109, 134
+  orig: 270, 270
+  offset: 84, 74
+  index: 3
+AlistriaB_Hurt
+  rotate: false
+  xy: 342, 788
+  size: 96, 137
+  orig: 270, 270
+  offset: 89, 79
+  index: 29
+AlistriaB_Hurt
+  rotate: false
+  xy: 449, 1358
+  size: 102, 134
+  orig: 270, 270
+  offset: 87, 77
+  index: 2
+AlistriaB_Hurt
+  rotate: false
+  xy: 1271, 1387
+  size: 97, 134
+  orig: 270, 270
+  offset: 88, 79
+  index: 1
+AlistriaB_Idle
+  rotate: false
+  xy: 235, 113
+  size: 98, 133
+  orig: 270, 270
+  offset: 89, 79
+  index: 7
+AlistriaB_Idle
+  rotate: false
+  xy: 353, 248
+  size: 100, 132
+  orig: 270, 270
+  offset: 89, 79
+  index: 20
+AlistriaB_Idle
+  rotate: false
+  xy: 442, 111
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 2
+AlistriaB_Idle
+  rotate: false
+  xy: 237, 1631
+  size: 102, 131
+  orig: 270, 270
+  offset: 89, 79
+  index: 12
+AlistriaB_Idle
+  rotate: false
+  xy: 1949, 1776
+  size: 97, 134
+  orig: 270, 270
+  offset: 89, 79
+  index: 25
+AlistriaB_Idle
+  rotate: false
+  xy: 360, 382
+  size: 99, 132
+  orig: 270, 270
+  offset: 89, 79
+  index: 9
+AlistriaB_Idle
+  rotate: false
+  xy: 360, 382
+  size: 99, 132
+  orig: 270, 270
+  offset: 89, 79
+  index: 21
+AlistriaB_Idle
+  rotate: false
+  xy: 455, 248
+  size: 100, 132
+  orig: 270, 270
+  offset: 89, 79
+  index: 10
+AlistriaB_Idle
+  rotate: false
+  xy: 520, 943
+  size: 97, 134
+  orig: 270, 270
+  offset: 89, 79
+  index: 4
+AlistriaB_Idle
+  rotate: false
+  xy: 545, 806
+  size: 96, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 27
+AlistriaB_Idle
+  rotate: false
+  xy: 548, 669
+  size: 96, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 1
+AlistriaB_Idle
+  rotate: false
+  xy: 557, 258
+  size: 96, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 29
+AlistriaB_Idle
+  rotate: false
+  xy: 634, 121
+  size: 96, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 3
+AlistriaB_Idle
+  rotate: false
+  xy: 663, 1528
+  size: 104, 130
+  orig: 270, 270
+  offset: 89, 79
+  index: 14
+AlistriaB_Idle
+  rotate: false
+  xy: 655, 1396
+  size: 104, 130
+  orig: 270, 270
+  offset: 89, 79
+  index: 16
+AlistriaB_Idle
+  rotate: false
+  xy: 769, 1526
+  size: 104, 130
+  orig: 270, 270
+  offset: 89, 79
+  index: 15
+AlistriaB_Idle
+  rotate: false
+  xy: 761, 1394
+  size: 103, 130
+  orig: 270, 270
+  offset: 89, 79
+  index: 17
+AlistriaB_Idle
+  rotate: false
+  xy: 866, 1393
+  size: 103, 130
+  orig: 270, 270
+  offset: 89, 79
+  index: 13
+AlistriaB_Idle
+  rotate: false
+  xy: 971, 1392
+  size: 102, 131
+  orig: 270, 270
+  offset: 89, 79
+  index: 18
+AlistriaB_Idle
+  rotate: false
+  xy: 1075, 1388
+  size: 99, 133
+  orig: 270, 270
+  offset: 89, 79
+  index: 22
+AlistriaB_Idle
+  rotate: false
+  xy: 1223, 1655
+  size: 101, 131
+  orig: 270, 270
+  offset: 89, 79
+  index: 19
+AlistriaB_Idle
+  rotate: false
+  xy: 1624, 1659
+  size: 101, 131
+  orig: 270, 270
+  offset: 89, 79
+  index: 11
+AlistriaB_Idle
+  rotate: false
+  xy: 1567, 1393
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 79
+  index: 28
+AlistriaB_Idle
+  rotate: false
+  xy: 539, 1086
+  size: 98, 134
+  orig: 270, 270
+  offset: 89, 79
+  index: 6
+AlistriaB_Idle
+  rotate: false
+  xy: 635, 1260
+  size: 98, 134
+  orig: 270, 270
+  offset: 89, 79
+  index: 24
+AlistriaB_Idle
+  rotate: false
+  xy: 735, 1259
+  size: 99, 133
+  orig: 270, 270
+  offset: 89, 79
+  index: 8
+AlistriaB_Idle
+  rotate: false
+  xy: 836, 1258
+  size: 98, 133
+  orig: 270, 270
+  offset: 89, 79
+  index: 23
+AlistriaB_Idle
+  rotate: false
+  xy: 735, 1123
+  size: 97, 134
+  orig: 270, 270
+  offset: 89, 79
+  index: 26
+AlistriaB_Idle
+  rotate: false
+  xy: 834, 1122
+  size: 97, 134
+  orig: 270, 270
+  offset: 89, 79
+  index: 5
+AlistriaB_Spawn
+  rotate: false
+  xy: 2, 926
+  size: 113, 139
+  orig: 270, 270
+  offset: 75, 114
+  index: 7
+AlistriaB_Spawn
+  rotate: false
+  xy: 1383, 1776
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 80
+  index: 29
+AlistriaB_Spawn
+  rotate: false
+  xy: 558, 395
+  size: 95, 135
+  orig: 270, 270
+  offset: 89, 82
+  index: 28
+AlistriaB_Spawn
+  rotate: false
+  xy: 539, 111
+  size: 93, 135
+  orig: 270, 270
+  offset: 91, 106
+  index: 20
+AlistriaB_Spawn
+  rotate: false
+  xy: 875, 1525
+  size: 104, 127
+  orig: 270, 270
+  offset: 85, 120
+  index: 6
+AlistriaB_Spawn
+  rotate: false
+  xy: 1076, 1523
+  size: 93, 130
+  orig: 270, 270
+  offset: 91, 103
+  index: 21
+AlistriaB_Spawn
+  rotate: false
+  xy: 1129, 1655
+  size: 92, 130
+  orig: 270, 270
+  offset: 91, 98
+  index: 23
+AlistriaB_Spawn
+  rotate: false
+  xy: 1171, 1523
+  size: 93, 130
+  orig: 270, 270
+  offset: 91, 101
+  index: 22
+AlistriaB_Spawn
+  rotate: false
+  xy: 1176, 1388
+  size: 93, 133
+  orig: 270, 270
+  offset: 90, 88
+  index: 26
+AlistriaB_Spawn
+  rotate: false
+  xy: 1435, 1655
+  size: 92, 119
+  orig: 270, 270
+  offset: 94, 106
+  index: 1
+AlistriaB_Spawn
+  rotate: false
+  xy: 1035, 1252
+  size: 94, 134
+  orig: 270, 270
+  offset: 89, 85
+  index: 27
+AlistriaB_Spawn
+  rotate: false
+  xy: 1031, 1119
+  size: 92, 131
+  orig: 270, 270
+  offset: 91, 95
+  index: 24
+AlistriaB_Spawn
+  rotate: false
+  xy: 1125, 1117
+  size: 91, 133
+  orig: 270, 270
+  offset: 91, 91
+  index: 25
+AlistriaB_Spawn
+  rotate: false
+  xy: 1322, 1262
+  size: 88, 123
+  orig: 270, 270
+  offset: 91, 120
+  index: 5
+AlistriaB_Spawn
+  rotate: false
+  xy: 1412, 1264
+  size: 86, 121
+  orig: 270, 270
+  offset: 95, 107
+  index: 2
+AlistriaB_Spawn
+  rotate: false
+  xy: 1500, 1265
+  size: 82, 121
+  orig: 270, 270
+  offset: 93, 111
+  index: 3
+Alistria_Switch
+  rotate: false
+  xy: 2, 1770
+  size: 126, 135
+  orig: 270, 270
+  offset: 69, 85
+  index: 7
+Alistria_Switch
+  rotate: false
+  xy: 133, 1908
+  size: 125, 135
+  orig: 270, 270
+  offset: 72, 80
+  index: 5
+Alistria_Switch
+  rotate: false
+  xy: 2, 1632
+  size: 123, 136
+  orig: 270, 270
+  offset: 74, 79
+  index: 4
+Alistria_Switch
+  rotate: false
+  xy: 524, 1920
+  size: 130, 123
+  orig: 270, 270
+  offset: 47, 70
+  index: 24
+Alistria_Switch
+  rotate: false
+  xy: 656, 1920
+  size: 129, 123
+  orig: 270, 270
+  offset: 50, 66
+  index: 26
+Alistria_Switch
+  rotate: false
+  xy: 2, 788
+  size: 116, 136
+  orig: 270, 270
+  offset: 59, 96
+  index: 14
+Alistria_Switch
+  rotate: false
+  xy: 2, 518
+  size: 120, 133
+  orig: 270, 270
+  offset: 67, 97
+  index: 15
+Alistria_Switch
+  rotate: false
+  xy: 1300, 1913
+  size: 122, 130
+  orig: 270, 270
+  offset: 72, 98
+  index: 16
+Alistria_Switch
+  rotate: false
+  xy: 1424, 1914
+  size: 122, 129
+  orig: 270, 270
+  offset: 53, 68
+  index: 23
+Alistria_Switch
+  rotate: false
+  xy: 120, 788
+  size: 111, 136
+  orig: 270, 270
+  offset: 63, 65
+  index: 22
+Alistria_Switch
+  rotate: false
+  xy: 124, 516
+  size: 111, 135
+  orig: 270, 270
+  offset: 60, 75
+  index: 20
+Alistria_Switch
+  rotate: false
+  xy: 239, 248
+  size: 112, 132
+  orig: 270, 270
+  offset: 77, 92
+  index: 9
+Alistria_Switch
+  rotate: false
+  xy: 127, 1632
+  size: 108, 136
+  orig: 270, 270
+  offset: 83, 79
+  index: 2
+Alistria_Switch
+  rotate: false
+  xy: 340, 1773
+  size: 104, 141
+  orig: 270, 270
+  offset: 75, 53
+  index: 28
+Alistria_Switch
+  rotate: false
+  xy: 552, 1789
+  size: 117, 129
+  orig: 270, 270
+  offset: 62, 58
+  index: 27
+Alistria_Switch
+  rotate: false
+  xy: 671, 1784
+  size: 112, 134
+  orig: 270, 270
+  offset: 56, 97
+  index: 13
+Alistria_Switch
+  rotate: false
+  xy: 907, 1654
+  size: 107, 129
+  orig: 270, 270
+  offset: 77, 96
+  index: 10
+Alistria_Switch
+  rotate: false
+  xy: 1016, 1655
+  size: 111, 130
+  orig: 270, 270
+  offset: 59, 100
+  index: 12
+Alistria_Switch
+  rotate: false
+  xy: 1480, 1786
+  size: 119, 125
+  orig: 270, 270
+  offset: 74, 100
+  index: 17
+Alistria_Switch
+  rotate: false
+  xy: 553, 1534
+  size: 108, 127
+  orig: 270, 270
+  offset: 69, 100
+  index: 11
+Alistria_Switch
+  rotate: false
+  xy: 1326, 1655
+  size: 107, 119
+  orig: 270, 270
+  offset: 75, 101
+  index: 18
+Alistria_Switch
+  rotate: false
+  xy: 1727, 1657
+  size: 101, 122
+  orig: 270, 270
+  offset: 67, 92
+  index: 19

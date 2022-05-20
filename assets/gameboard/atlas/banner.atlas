@@ -1,0 +1,20 @@
+
+banner.png
+size: 1024, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+enemy-ingame-banner
+  rotate: false
+  xy: 511, 2
+  size: 507, 183
+  orig: 507, 183
+  offset: 0, 0
+  index: -1
+player-ingame-banner
+  rotate: false
+  xy: 2, 2
+  size: 507, 183
+  orig: 507, 183
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+hero-avatars.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ Alicial
+  rotate: false
+  xy: 526, 5
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ AlicialG
+  rotate: false
+  xy: 264, 308
+  size: 260, 304
+  orig: 260, 304
+  offset: 0, 0
+  index: -1
+ Alistra
+  rotate: false
+  xy: 1050, 5
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ AlistraG
+  rotate: false
+  xy: 2, 614
+  size: 260, 304
+  orig: 260, 304
+  offset: 0, 0
+  index: -1
+ Balder
+  rotate: false
+  xy: 526, 310
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ Elise
+  rotate: false
+  xy: 526, 615
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ Escanor
+  rotate: false
+  xy: 264, 3
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ Invoker
+  rotate: false
+  xy: 788, 615
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ Lancelot
+  rotate: false
+  xy: 1050, 310
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ Nguyen
+  rotate: false
+  xy: 2, 2
+  size: 260, 304
+  orig: 260, 304
+  offset: 0, 0
+  index: -1
+ Notradamus
+  rotate: false
+  xy: 1312, 615
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ Ogurk
+  rotate: false
+  xy: 788, 310
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ OgurkG
+  rotate: false
+  xy: 2, 308
+  size: 260, 304
+  orig: 260, 304
+  offset: 0, 0
+  index: -1
+ Tzujin
+  rotate: false
+  xy: 788, 5
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ TzuljinG
+  rotate: false
+  xy: 264, 614
+  size: 260, 304
+  orig: 260, 304
+  offset: 0, 0
+  index: -1
+ Witch Doctor
+  rotate: false
+  xy: 1050, 615
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
+ Yrmenlaf
+  rotate: false
+  xy: 1312, 310
+  size: 260, 303
+  orig: 260, 303
+  offset: 0, 0
+  index: -1
